@@ -41,3 +41,7 @@ See below for some of the projects I work on. You can [see the rest here](https:
 - 👩🏻‍💼🧳    [LinkedIn](https://www.linkedin.com/in/TinaciousDesign)
 - 🥞💦   [StackOverflow](https://stackoverflow.com/users/1870884/tina?tab=profile)
 - 📬📥   [info@tinaciousdesign.com](mailto:info@tinaciousdesign.com?subject=Hi!%20I%20found%20you%20on%20Github%20👋)
+
+<a href="https://tinacious-spotify-now-playing.vercel.app/now-playing?open">
+  <img src="https://tinacious-spotify-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
