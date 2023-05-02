@@ -1,32 +1,14 @@
 ### Hi, my name is Tina 🙋🏻‍♀️
 
-📍 **Current location**: _Vancouver, BC_ 🏞   **Previous location**: _Toronto, ON_ 🏙   **Next location**: _?¿_ 🌍
-
 I'm a Full Stack Software Developer from Canada working primarily in JavaScript, Ruby and native mobile (Android, iOS). I am passionate about building awesome, maintainable software that's in it for the long haul. 🚚
-
-My favourite technologies include JavaScript/TypeScript, Android, React, Node.js, Vue, Ruby on Rails, PostGres, MySQL, and CSS (SCSS, Stylus, etc.). In a past life I used PHP and did development using WordPress, Drupal, and ProcessWire.
 
 To learn more about me, the kind of work I do, and some of my past projects and experiences, check out my website [TinaciousDesign.com](https://tinaciousdesign.com/) (that's "tenacious" with a Tina) 🙃
 
 
-#### Things I do
-
-- 👩🏻‍🎨 Pixel-perfect, mobile-first responsive front-end development
-- 🥞 Architecting maintainable, full stack solutions (and developing them from start to finish)
-- 👩🏻‍🏫 Teaching and tutoring, including ramping up developers of all levels in front-end and full stack product development
-    - Formal, structured instruction 🎓
-    - 1-on-1 pair programming sessions 👨🏾‍💻👩🏻‍💻👨🏼‍💻
-    - Technical consultations 👩🏻‍💼
-- 🎤 Public speaking at technical conferences
-- 📱 Native mobile apps
-    - Android: Kotlin, Java
-    - iOS: Swift, Objective-C
-- 💻 Browser extensions (Chrome, little bit of Safari)
-
-
-#### Things I want to do more of
+### Things I want to do more of
 
 - Android development with Kotlin
+- Backend development and CLI tool development with Go
 - iOS development with Swift
 
 
