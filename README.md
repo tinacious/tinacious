@@ -7,9 +7,10 @@ To learn more about me, the kind of work I do, and some of my past projects and 
 
 ### Things I want to do more of
 
-- Android development with Kotlin
-- Backend development and CLI tool development with Go
+- Android development, and backend development with Kotlin
+- Backend development and CLI tool development with Go and Rust
 - iOS development with Swift
+- Front-end engineering with Vue
 
 
 #### 💟 [Sponsor projects](https://github.com/sponsors/tinacious) 💌
