@@ -14,8 +14,6 @@ To learn more about me, the kind of work I do, and some of my past projects and 
 
 #### 💟 [Sponsor projects](https://github.com/sponsors/tinacious) 💌
 
-See below for some of the projects I work on. You can [see the rest here](https://github.com/tinacious?tab=repositories).
-
 
 ### the socials
 
